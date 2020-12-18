@@ -1,13 +1,15 @@
-# Adminator HTML5 Admin Template
-**Adminator** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/adminator/index.html
+# Ingénierie Avancée des SI PROJECT / 3th year  Info C
+# Yafaa Ben Tili
+# Mohamed Mbarek
+
+**OUR WORK** consist of a responsive Bootstrap 4 Admin Template. It provides you with a collection of snippets and utilities, custom pages, a collection of applications and some useful widgets. 
 
 # Preview
 
 ### Screenshot
 
-![Adminator admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/adminator-free-admin-dashboard-template.jpg)
 
-### Demo Site: [Here](https://colorlib.com/polygon/adminator/index.html)
+### Demo Site: [Here]
 
 ## TOC
 - [Getting Started](#getting-started)
@@ -31,7 +33,7 @@ In order to run **Adminator** on your local machine all what you need to do is t
   - libpng-dev *linux only*
 
 #### Installing & Local Development
-Start by typing the following commands in your terminal in order to get **Adminator** full package on your machine and starting a local development server with live reload feature.
+Start by typing the following commands in your terminal in order to get **Project** full package on your machine and starting a local development server with live reload feature.
 
 ```
 > git clone https://github.com/puikinsh/Adminator-admin-dashboard.git adminator
