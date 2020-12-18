@@ -1,6 +1,6 @@
 # Ingénierie Avancée des SI PROJECT / 3th year  Info C
-# Yafaa Ben Tili
-# Mohamed Mbarek
+# Yafaa Ben Tili |  Mohamed Mbarek
+
 
 **OUR WORK** consist of a responsive Bootstrap 4 Admin Template. It provides you with a collection of snippets and utilities, custom pages, a collection of applications and some useful widgets. 
 
